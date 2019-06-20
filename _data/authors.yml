@@ -1,16 +1,16 @@
 hanuman:
-  username: hanuman
-  name: HANUMAN
-  location: Ayodhya
-  url_full: https://hanumanchalisa.net
-  url: hanumanchalisa.net
-  bio: Jai Shri Ram!
+  username: XY Energy
+  name: XY Energy
+  location: Suzhou
+  url_full: https://xyenergy.github.io
+  url: xyenergy.github.io
+  bio: Another Energy Tech Company
   assets: assets/images/hanuman.png
 krishna:
-  username: krishna
-  name: KRISHNA
-  location: Vrindavan
-  url_full: https://shriradhakrishna.com
-  url: shriradhakrishna.com
-  bio: Radhe! Radhe!
+  username: XY Energy
+  name: XY Energy
+  location: Suzhou
+  url_full: https://xyenergy.github.io
+  url: xyenergy.github.io
+  bio: Another Energy Tech Company
   assets: assets/images/favicon.png
