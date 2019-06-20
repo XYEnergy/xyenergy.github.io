@@ -4,29 +4,14 @@ title: 关于
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
-
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
-
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+本公司产品以一套物联网智能控制终端与一套物联网信息安全系统为基础，基于自主开发的关键技术建立了三大云平台，包括了：
+- 计及区域特征的聚合控制模式优选平台
+- 考虑对原有功能影响的聚合效果预测平台
+- 基于组合在线学习的负荷聚合实时控制平台
+实现了全方位高性能的负荷聚合管理。与传统的需求侧管理方案相比，本项目的解决方案将原本无法参与电网辅助服务的大量具有不确定性的负荷聚合成可靠且可调度的电网资源，通过辅助电网运行实现经济价值，在增加负荷拥有者（大型企事业单位、工厂等）收益的同时提升电力系统的运行效率和稳定性。
+ 
+具体地，产品具有以下特点：三大平台的关键技术基于核心团队在负荷聚合领域多年的技术积累，将大量原本无价值的不可靠资源聚合成为有很高经济价值的可靠电网调节资源，并使其完美配合电网运行，解决了满足了高比例可再生能源接入时电力系统调节灵活性不足的问题。同时，核心团队在信息安全系统和物联网终端的设计以安全性和可靠性为宗旨，确保了三大平台与终端间的流畅交互和协同控制。 与传统负荷管理相比，本项目是针对大量具有不确定性的小负荷，进行聚合管理后创造经济价值；而传统负荷管理由于缺乏实时聚合大量负荷的技术手段，无法挖掘其聚合价值，因此往往对海量小负荷选择忽略。而本产品衔接大量分散在用户侧的分散负荷资源协同参与电网运行，充分挖掘负荷侧资源的价值与效益。
+本公司负荷聚合管理解决方案将能实现如下效果：
+- 优选负荷聚合控制模式，提升民用负荷聚合潜力15%以上。
+- 负荷的聚合效果（大于100台设备）事前预测误差小于20%。
+- 实时聚合（大于100台设备）响应速度小于1分钟，误差小于聚合总容量的2%。
